@@ -1,0 +1,60 @@
+C:\Users\User\Desktop\testeSQL\testeSQL\bin\Debug\Users.mdb
+C:\Users\User\Desktop\testeSQL\testeSQL\bin\Debug\testeSQL.exe.config
+C:\Users\User\Desktop\testeSQL\testeSQL\bin\Debug\testeSQL.exe
+C:\Users\User\Desktop\testeSQL\testeSQL\bin\Debug\testeSQL.pdb
+C:\Users\User\Desktop\testeSQL\testeSQL\bin\Debug\testeSQL.xml
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\tarefa_7.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\testeSQL.Form1.resources
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\testeSQL.Form2.resources
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\testeSQL.Form3.resources
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\testeSQL.Resources.resources
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\tarefa_7.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\tarefa_7.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\testeSQL.exe
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\testeSQL.xml
+C:\Users\User\Desktop\testeSQL\testeSQL\obj\Debug\testeSQL.pdb
+C:\Users\User\Desktop\Tarefa 7\testeSQL\bin\Debug\Users.mdb
+C:\Users\User\Desktop\Tarefa 7\testeSQL\bin\Debug\testeSQL.exe.config
+C:\Users\User\Desktop\Tarefa 7\testeSQL\bin\Debug\testeSQL.exe
+C:\Users\User\Desktop\Tarefa 7\testeSQL\bin\Debug\testeSQL.pdb
+C:\Users\User\Desktop\Tarefa 7\testeSQL\bin\Debug\testeSQL.xml
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form1.resources
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form2.resources
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form3.resources
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.Resources.resources
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.exe
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.xml
+C:\Users\User\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.pdb
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\bin\Debug\Users.mdb
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\bin\Debug\testeSQL.exe.config
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\bin\Debug\testeSQL.exe
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\bin\Debug\testeSQL.pdb
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\bin\Debug\testeSQL.xml
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbprojAssemblyReference.cache
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form1.resources
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form2.resources
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form3.resources
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\testeSQL.Resources.resources
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbproj.GenerateResource.cache
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbproj.CoreCompileInputs.cache
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\testeSQL.exe
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\testeSQL.xml
+D:\Work Folder\trabalhos na quarentena\PSI\Tarefa 7\testeSQL\obj\Debug\testeSQL.pdb
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\bin\Debug\Users.mdb
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\bin\Debug\testeSQL.exe.config
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\bin\Debug\testeSQL.exe
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\bin\Debug\testeSQL.pdb
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\bin\Debug\testeSQL.xml
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form1.resources
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form2.resources
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.Form3.resources
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.Resources.resources
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\tarefa_7.vbproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.exe
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.xml
+C:\Users\Rodrigo\Desktop\Tarefa 7\testeSQL\obj\Debug\testeSQL.pdb
